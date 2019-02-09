@@ -4,6 +4,10 @@
     "description": "A theme inspired by Matt Wilson's colors in Paper Girls",
     "version": "0.0.1",
     "publisher": "glitteringkatie",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/glitteringkatie/stony-stream.git"
+    },
     "engines": {
         "vscode": "^1.31.0"
     },
